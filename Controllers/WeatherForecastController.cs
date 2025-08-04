@@ -13,5 +13,14 @@ namespace Insurance_Claims_Portal.Controllers
         {
             _logger = logger;
         }
+
+
+        [HttpGet(Name = "GetName")]
+        public string GetName()
+        {
+            return "Aditya";
+        }
+
+
     }
 }
