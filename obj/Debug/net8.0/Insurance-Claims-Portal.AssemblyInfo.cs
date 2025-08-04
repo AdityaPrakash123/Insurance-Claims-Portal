@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Insurance-Claims-Portal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b5f631b05282910eacd60bfeb0063301b52cbf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Insurance-Claims-Portal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Insurance-Claims-Portal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
