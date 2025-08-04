@@ -15,7 +15,7 @@ namespace Insurance_Claims_Portal.Controllers
         }
 
 
-        [HttpGet(Name = "GetName")]
+        [HttpGet("name")]
         public string GetName()
         {
             return "Aditya";
